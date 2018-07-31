@@ -8,17 +8,17 @@ slug: jhu-coursera-regression-model-quizes
 tags: DataScience
 categories: R
 output: 
-    # github_document:
-    #     toc: yes
-    #     toc_depth: 2
-  html_document:
-    df_print: tibble
-    highlight: textmate
-    keep_md: yes
-    number_sections: yes
-    theme: readable
-    toc: yes
-    toc_depth: 2
+    github_document:
+        toc: yes
+        toc_depth: 2
+  # html_document:
+  #   df_print: tibble
+  #   highlight: textmate
+  #   keep_md: yes
+  #   number_sections: yes
+  #   theme: readable
+  #   toc: yes
+  #   toc_depth: 2
 ---
 
 # JHU DataScience Specialization/Cousers Reproducible Data/Week1-4/Regression Model Quizes
